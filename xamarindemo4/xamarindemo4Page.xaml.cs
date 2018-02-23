@@ -7,6 +7,7 @@ namespace xamarindemo4
         public xamarindemo4Page()
         {
             InitializeComponent();
+            //
         }
     }
 }
